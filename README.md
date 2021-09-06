@@ -1,0 +1,2 @@
+# szkola
+pliki szkolne
